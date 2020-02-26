@@ -1,3 +1,3 @@
 # stencil-text-skeleton-loader-react
 
-This is wrapper stencil-text-skeleton-loader for React.
+This is a wrapper of stencil-text-skeleton-loader for React.

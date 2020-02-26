@@ -1,7 +1,7 @@
 {
   "name": "stencil-text-skeleton-loader-react",
   "sideEffects": false,
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "description": "React specific wrapper for component-library",
   "repository": {
